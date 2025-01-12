@@ -14,4 +14,4 @@ Created a model with GPT architecture based on my understanding of [Building a L
 * Classification Fine Tuning: Created a spam or no-spam classification model by configuring the output layers for the same GPT Model.
 * Instruction Fine Tuning: Created a "chatbot" agent by fine tuning the model on a dataset of 1100 instructions.
 
-Note: The model is not very accurate since I could only load the 124M parameter model onto my machine. However, it still functions well as as text completion agent.
+Note: The model is not too accurate since I could only load the 124M parameter model onto my machine (Responses can be found in instruction_data_with_model_responses.json). However, it still functions well as as text completion agent.
