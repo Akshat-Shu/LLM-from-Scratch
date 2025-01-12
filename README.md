@@ -1,6 +1,7 @@
 ## GPT-Like LLM made from scratch
 
 Created a model with GPT architecture based on my understanding of [Building a Large Language Model from scratch](https://github.com/rasbt/LLMs-from-scratch/blob/main/)
+<br>
 <br><a href="https://amzn.to/4fqvn0D"><img src="https://sebastianraschka.com/images/LLMs-from-scratch-images/cover.jpg?123" width="250px"></a>
 <br>
 

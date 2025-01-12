@@ -16,5 +16,3 @@ def random_split(df, train_frac, val_frac):
     test_df = df[val_end:]
 
     return train_df, val_df, test_df
-
-train_df, val_df, test_df = random_split(balanced_df, 0.7, 0.1)
