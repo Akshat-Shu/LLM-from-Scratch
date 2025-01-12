@@ -9,8 +9,8 @@ Created a model with GPT architecture based on my understanding of [Building a L
 * Created a 124M parameter model using:
     * Token and Positional Embeddings
     * Transformers which included Short Circuit, Feed Forward, Multi-Headed Attention and Dropout layers
-* Trained the model on my local machine on "the-verdict.txt". The model overfit on this small dataset.
-* Loaded the weights for the 124M model open-sources by OpenAI into the model
+* Trained the model on my local machine on "the-verdict.txt". The model overfit itself on this small dataset.
+* Loaded weights for the 124M parameter GPT open-sourced by OpenAI into the model
 * Classification Fine Tuning: Created a spam or no-spam classification model by configuring the output layers for the same GPT Model.
 * Instruction Fine Tuning: Created a "chatbot" agent by fine tuning the model on a dataset of 1100 instructions.
 
