@@ -1,3 +1,6 @@
+# configuration for the GPT 124M parameter model. Unable to run 355M parameter model on my hardware.
+# TODO: Try out the 355M parameter model on a clous provider 
+
 class Config:
     def __init__(self):
         self.VOCAB_SIZE = 50257

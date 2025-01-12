@@ -1,0 +1,332 @@
+[
+  {
+    "instruction": "Convert the active sentence to passive: 'The chef cooks the meal every day.'",
+    "input": "",
+    "output": "The meal is cooked by the chef every day.",
+    "model_response": "The chef uses vegetables and herbs to prepare his meal."
+  },
+  {
+    "instruction": "Classify an input string as either a noun or a verb.",
+    "input": "Dance",
+    "output": "'Dance' can be classified as a verb.",
+    "model_response": "Classify an output as either a noun or a verb."
+  },
+  {
+    "instruction": "Rewrite the sentence using a metaphor.",
+    "input": "The book is very interesting.",
+    "output": "The book is a page-turner.",
+    "model_response": "The world is so interesting, it captivates students, explains research and encourages the spread of knowledge!"
+  },
+  {
+    "instruction": "Generate a question with the keyword \u201cbacteria\u201d",
+    "input": "",
+    "output": "How do bacteria affect human health?",
+    "model_response": "Bacteria:\nRearrange these organisms in the soil."
+  },
+  {
+    "instruction": "What is the past participle of 'run'?",
+    "input": "",
+    "output": "The past participle of 'run' is 'run'.",
+    "model_response": "The past participle of 'run' is 'runl'."
+  },
+  {
+    "instruction": "Provide a synonym for 'quick'.",
+    "input": "",
+    "output": "A synonym for 'quick' is 'rapid'.",
+    "model_response": "A synonym for 'quick' are 'quick-start' or an 'easy start'."
+  },
+  {
+    "instruction": "Give an example of a metaphor.",
+    "input": "",
+    "output": "An example of a metaphor is saying, 'Time is a thief,' which suggests that time, like a thief, can take away life moments without literally stealing.",
+    "model_response": "The metaphor for the metaphor was 'thousands'."
+  },
+  {
+    "instruction": "Calculate the interest on a $1,000 investment at an annual rate of 5% over 3 years.",
+    "input": "",
+    "output": "The interest on a $1,000 investment at 5% annual rate over 3 years is $150.",
+    "model_response": "A 5% annual rate translates into the annual inflation rate of 5.1%."
+  },
+  {
+    "instruction": "What is a synonym of 'elated'?",
+    "input": "",
+    "output": "A synonym for 'elated' is 'overjoyed'.",
+    "model_response": "A synonym for 'elated' is 'entrenched.'\""
+  },
+  {
+    "instruction": "Translate 'It's raining' into Japanese.",
+    "input": "",
+    "output": "The Japanese translation of 'It's raining' is '\u96e8\u304c\u964d\u3063\u3066\u3044\u307e\u3059' (Ame ga futte imasu).",
+    "model_response": "She gives it a very Japanese airy voice, and the Japanese characters are very hard to pronounce."
+  },
+  {
+    "instruction": "Convert the following verb to its past participle form: 'speak'",
+    "input": "speak",
+    "output": "The past participle form of 'speak' is 'spoken.'",
+    "model_response": "She spoke at school, and that's very interesting."
+  },
+  {
+    "instruction": "Describe the principle of conservation of energy.",
+    "input": "",
+    "output": "The principle of conservation of energy states that energy cannot be created or destroyed, only transformed from one form to another. This means the total energy of an isolated system remains constant over time.",
+    "model_response": "Energy and matter are governed by forces interacting heavily with a number of other systems, with no fixed place a limit to their forces or distribution power."
+  },
+  {
+    "instruction": "Calculate the perimeter of a rectangle with a length of 5 meters and a width of 3 meters.",
+    "input": "",
+    "output": "The perimeter of the rectangle is 16 meters.",
+    "model_response": "The perimeter of the rectangle was 28 cm."
+  },
+  {
+    "instruction": "What is the past tense of 'freeze'?",
+    "input": "",
+    "output": "The past tense of 'freeze' is 'froze'.",
+    "model_response": "The past form of 'freeze' is 'cold'."
+  },
+  {
+    "instruction": "Correct the misuse of 'their' in the sentence.",
+    "input": "Their going to the store.",
+    "output": "The corrected sentence should be: 'They're going to the store.'",
+    "model_response": ""
+  },
+  {
+    "instruction": "Classify the following statement into one of these labels: [positive, negative, neutral]",
+    "input": "My computer crashed.",
+    "output": "The statement \"My computer crashed\" can be classified as negative.",
+    "model_response": "All the listed labels for the statement 'My computer crashed' are neutral."
+  },
+  {
+    "instruction": "Identify the onomatopoeia in the sentence.",
+    "input": "The bees buzzed as they flew past.",
+    "output": "The onomatopoeia in the sentence is 'buzzed'.",
+    "model_response": "The shepherds hovered below the clouds in the garden of a solitary community bee hive."
+  },
+  {
+    "instruction": "Edit the sentence.",
+    "input": "We enjoys watching movies.",
+    "output": "We enjoy watching movies.",
+    "model_response": "Lets see: We actually enjoyed watching \"The Mummy.\" Also:"
+  },
+  {
+    "instruction": "Define the term 'gravity'.",
+    "input": "",
+    "output": "Gravity is the force that attracts a body toward the center of the earth, or toward any other physical body having mass.",
+    "model_response": "Gravity consists of wind speeds and water droplets, as well as a density of vapor."
+  },
+  {
+    "instruction": "What is an antonym for 'hot'?",
+    "input": "",
+    "output": "An antonym for 'hot' is 'cold'.",
+    "model_response": "An antonym for 'hot' is 'cold'."
+  },
+  {
+    "instruction": "Reverse the order of the given phrase.",
+    "input": "sun and moon",
+    "output": "moon and sun",
+    "model_response": "Moonlight has a very specific ring around it which defines it as a \"bright beacon\"."
+  },
+  {
+    "instruction": "What is the formula for calculating power?",
+    "input": "",
+    "output": "The formula for calculating power is power = work/time.",
+    "model_response": "The formula for determining power can be calculated based on the given volume."
+  },
+  {
+    "instruction": "Name the process by which plants absorb water through their roots.",
+    "input": "",
+    "output": "The process by which plants absorb water through their roots is called absorption.",
+    "model_response": "Plants absorb water by growing in low or under conditions to form a liquid. In high or under conditions the liquid typically leaves soils but at room temperature it typically forms clouds or fennels."
+  },
+  {
+    "instruction": "What is the past tense of 'draw'?",
+    "input": "",
+    "output": "drew.",
+    "model_response": "The past tense of 'draw' is 'late'."
+  },
+  {
+    "instruction": "Change the given verb to its present perfect form.",
+    "input": "run",
+    "output": "Run.",
+    "model_response": "Running + Runlime"
+  },
+  {
+    "instruction": "Define the term 'oxymoron'.",
+    "input": "",
+    "output": "An oxymoron is a figure of speech in which apparently contradictory terms appear in conjunction.",
+    "model_response": "A nitrometer is an anion."
+  },
+  {
+    "instruction": "What is the chemical symbol for water?",
+    "input": "",
+    "output": "The chemical symbol for water is H2O.",
+    "model_response": "The chemical symbol for water has been identified: hydrochloric acid (HC)."
+  },
+  {
+    "instruction": "Convert the active sentence to passive: 'They paint the house every year.'",
+    "input": "",
+    "output": "The house is painted every year by them.",
+    "model_response": "They never had a single color in the house."
+  },
+  {
+    "instruction": "Provide the past tense form of the verb \"run.\"",
+    "input": "",
+    "output": "The past tense of the verb \"run\" is \"ran.\"",
+    "model_response": "In the past tense it would be \"run.\""
+  },
+  {
+    "instruction": "Convert the sentence to passive voice: 'They will hold the meeting tomorrow.'",
+    "input": "They will hold the meeting tomorrow.",
+    "output": "The meeting will be held tomorrow by them.",
+    "model_response": "Below is an instruction that describes a task.\nWrite a response that appropriately completes the request.\n\n### Instruction:\nConvert the sentence to passive voice: 'They will hold the meeting tomorrow.'\n\n### Input:\nThey will hold the meeting tomorrow."
+  },
+  {
+    "instruction": "What is the chemical formula for sulfuric acid?",
+    "input": "",
+    "output": "The chemical formula for sulfuric acid is H2SO4.",
+    "model_response": "The chemical formula for sulfuric acid (H2O2) is FeO."
+  },
+  {
+    "instruction": "What type of cloud indicates fair weather?",
+    "input": "",
+    "output": "Cumulus clouds often indicate fair weather.",
+    "model_response": "Meteo is neutral."
+  },
+  {
+    "instruction": "Insert a suitable adjective to complete the sentence.",
+    "input": "The journey was _____.",
+    "output": "The journey was arduous.",
+    "model_response": "The journey was perfect."
+  },
+  {
+    "instruction": "Rewrite the sentence using an idiom.",
+    "input": "The test was very easy.",
+    "output": "The test was a piece of cake.",
+    "model_response": "Excellent work."
+  },
+  {
+    "instruction": "What is the opposite of 'increase'?",
+    "input": "",
+    "output": "The opposite of 'increase' is 'decrease'.",
+    "model_response": "The opposite of 'increase' is 'sink.'"
+  },
+  {
+    "instruction": "Calculate the perimeter of a square with a side length of 6 meters.",
+    "input": "",
+    "output": "The perimeter of the square is 24 meters.",
+    "model_response": "The perimeter of the square is 6 meter."
+  },
+  {
+    "instruction": "Find the missing number in the sequence",
+    "input": "2, 4, ?, 8, 10",
+    "output": "The missing number in the sequence is 6.",
+    "model_response": "Below is an instruction that describes a task.\nWrite a response that appropriately completes the request.\n\n### Instruction:\nFind the missing number in the sequence\n\n### Input:\n2, 4, ?, 8, 10, 29."
+  },
+  {
+    "instruction": "Translate 'Good night' into German.",
+    "input": "",
+    "output": "The German translation of 'Good night' is 'Gute Nacht'.",
+    "model_response": "An 'en': 'He laments night, sings good morning.'"
+  },
+  {
+    "instruction": "Provide a word that rhymes with 'light.'",
+    "input": "",
+    "output": "A word that rhymes with 'light' is 'might.'",
+    "model_response": "A word that rhymes with 'lights.'"
+  },
+  {
+    "instruction": "What is the comparative form of 'good'?",
+    "input": "",
+    "output": "The comparative form of 'good' is 'better'.",
+    "model_response": "The comparative form of 'good' is 'ambitious'."
+  },
+  {
+    "instruction": "Name the literary device used in 'The wind whispered through the trees.'",
+    "input": "",
+    "output": "The literary device used is personification.",
+    "model_response": "The literary device used is The Wind."
+  },
+  {
+    "instruction": "Rewrite the following sentence to use a metaphor: 'His words cut deeper than a knife.'",
+    "input": "",
+    "output": "His words were a knife, cutting deep.",
+    "model_response": "His words cut deeper than the knife."
+  },
+  {
+    "instruction": "Generate a sentence using the word 'innovate'.",
+    "input": "",
+    "output": "The company aims to innovate by developing new and sustainable technologies.",
+    "model_response": "The teacher produced a novel about a children's book being made out of children's hair."
+  },
+  {
+    "instruction": "What is the speed of light?",
+    "input": "",
+    "output": "The speed of light is approximately 299,792 kilometers per second.",
+    "model_response": "The velocity of the light being tracked by any given point is 1.20 kilometers/s."
+  },
+  {
+    "instruction": "Identify the adverb in the sentence",
+    "input": "She quickly ran to the store.",
+    "output": "The adverb in the sentence is 'quickly'.",
+    "model_response": "She quickly prepared the necessary words to be approved for entry."
+  },
+  {
+    "instruction": "Provide a synonym for 'beautiful'.",
+    "input": "",
+    "output": "A synonym for 'beautiful' is 'gorgeous'.",
+    "model_response": "A synonym for 'beautiful' is 'thrilled'."
+  },
+  {
+    "instruction": "What is the capital of India?",
+    "input": "",
+    "output": "The capital of India is New Delhi.",
+    "model_response": "The capital of India is Delhi."
+  },
+  {
+    "instruction": "Classify the following words by their grammatical categories: jump, quick, beautiful",
+    "input": "",
+    "output": "Jump: Verb\nQuick: Adjective\nBeautiful: Adjective",
+    "model_response": "Jump\nQuick\nThe grammatical classifications of these sentences are: adjectives/generatives (lump), past participle/correction."
+  },
+  {
+    "instruction": "What is the chemical formula for potassium nitrate?",
+    "input": "",
+    "output": "The chemical formula for potassium nitrate is KNO3.",
+    "model_response": "The chemical formula for potassium nitrate (KN) is KO."
+  },
+  {
+    "instruction": "Rewrite the sentence using a simile.",
+    "input": "The cake is very sweet.",
+    "output": "The cake is as sweet as honey.",
+    "model_response": "The cake was a sweet treat."
+  },
+  {
+    "instruction": "Label whether the following statements are true or false.",
+    "input": "The moon is a planet.",
+    "output": "False",
+    "model_response": "The moon will be a planet due to its orbit around the sun."
+  },
+  {
+    "instruction": "Convert 1000 milliliters to liters.",
+    "input": "",
+    "output": "1000 milliliters is equivalent to 1 liter.",
+    "model_response": "1000 grams is equivalent to 5 cubic milliliters."
+  },
+  {
+    "instruction": "Change this sentence into the past continuous tense.",
+    "input": "She sings in the choir.",
+    "output": "She was singing in the choir.",
+    "model_response": "She sung in the choir."
+  },
+  {
+    "instruction": "Provide a synonym for 'clever.'",
+    "input": "",
+    "output": "A synonym for 'clever' is 'smart.'",
+    "model_response": "A synonym for 'chase' is 'compassionate.'"
+  },
+  {
+    "instruction": "Change the sentence 'You should have called me.' into a question.",
+    "input": "",
+    "output": "Should you have called me?",
+    "model_response": "Below is an instruction that describes a task.\nWrite a response that appropriately completes the request.\n\n### Instruction:\nChange the sentence 'You should have called me.' into a question.\n\n### Input:\nHe came to go with your friend. You were out every evening. You should have called me on the radio. You should have seen all of his cars."
+  }
+]

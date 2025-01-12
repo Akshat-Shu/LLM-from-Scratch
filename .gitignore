@@ -1,3 +1,7 @@
 __pycache__
 gpt2-model
 gpt_model.pt
+text_classifier.pth
+instruction_model-124M.pth
+instruction_data.json
+sms_spam_collection/

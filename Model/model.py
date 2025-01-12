@@ -39,7 +39,7 @@ def generate_simple_text(model, idx, max_tokens, context_size):
     
     return idx
 
-def generate_text(model, idx, max_tokens, context_size, temperature=0.0, topk=None):
+def generate_text(model, idx, max_tokens, context_size, temperature=0.0, topk=None, response_end_id=50256):
     for _ in range(max_tokens):
         idx_cond = idx[:, -context_size:]
         with torch.no_grad():
@@ -59,6 +59,10 @@ def generate_text(model, idx, max_tokens, context_size, temperature=0.0, topk=No
             idx_next = torch.multinomial(probabs, num_samples=1)
         else:
             idx_next = torch.argmax(logits, dim = -1, keepdim = True)
+
+        if(idx_next == response_end_id):
+            break
+
         idx = torch.cat([idx, idx_next], dim = 1)
     
     return idx
